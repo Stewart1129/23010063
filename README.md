@@ -17,7 +17,9 @@ Next.js booking application for the Assignment 2 airline brief.
 ## Vercel deployment
 
 1. Import this folder into Vercel as a Next.js project.
-2. Optional but recommended: add environment variables:
+2. Add environment variables:
    - `MONGODB_URI`
    - `MONGODB_DB=dairy_flat_air`
 3. Deploy, then submit the short Vercel URL in the portal comments.
+
+For local testing with MongoDB Atlas, copy `.env.example` to `.env.local`, replace `<db_password>` with the database user's password, then restart `npm.cmd run dev`.
