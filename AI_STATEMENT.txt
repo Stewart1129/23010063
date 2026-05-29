@@ -1,0 +1,3 @@
+AI Statement
+
+I used OpenAI Codex as an assistant while preparing this assignment. The AI helped interpret the assignment brief, scaffold the Next.js application, draft the user interface, generate seed flight data logic, and prepare submission packaging. I reviewed and directed the work, and I am responsible for the final submitted code and content.
